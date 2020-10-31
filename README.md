@@ -4,3 +4,4 @@
 - Numpy, Pandas
 - Matplotlib
 - Tensorflow
+- Keras / scikit-learn
